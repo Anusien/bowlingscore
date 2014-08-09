@@ -1,0 +1,5 @@
+packages/**
+BowlingScore/obj/**
+BowlingScore/bin/**
+.*.swp
+*~
